@@ -27,6 +27,12 @@
   </picture>
 </div>
 
+### 📈 Detalhes das Contribuições com Legendas
+
+<div align="center">
+  <img src="https://github.com/Ernani1234/Ernani1234/blob/main/profile-summary-card-output/0-profile-details.svg" alt="Profile Details with Month and Week Labels" />
+</div>
+
 ---
 
 
