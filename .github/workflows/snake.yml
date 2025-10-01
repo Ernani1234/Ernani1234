@@ -15,6 +15,12 @@ on:
     branches:
     - main
 
+# Add permissions for the GITHUB_TOKEN
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
 # The sequence of runs in this workflow:
 jobs:
   # This workflow contains a single job called "build"
