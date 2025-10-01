@@ -21,16 +21,10 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ernani1234/Ernani1234/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ernani1234/Ernani1234/blob/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://github.com/Ernani1234/Ernani1234/blob/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ernani1234/Ernani1234/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ernani1234/Ernani1234/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/Ernani1234/Ernani1234/blob/output/github-contribution-grid-snake.svg" />
   </picture>
-</div>
-
-### 📅 Gráfico de Atividade Detalhado
-
-<div align="center">
-  <img src="https://github.com/Ernani1234/Ernani1234/blob/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Gráfico de contribuições com legendas de meses e semanas" />
 </div>
 
 ---
