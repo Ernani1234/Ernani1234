@@ -20,7 +20,7 @@
 ## 📊 Contribuições dos Últimos 12 Meses
 
 <div align="center">
-  <img src="https://github.com/ernanimendes/ernanimendes/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/Ernani1234/Ernani1234/blob/output/github-snake.svg" alt="Snake animation" />
 </div>
 
 ---
