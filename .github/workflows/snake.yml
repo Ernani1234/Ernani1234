@@ -17,8 +17,8 @@ on:
 
 # Add permissions for the GITHUB_TOKEN
 permissions:
-  contents: read
-  pages: write
+  contents: write
+  actions: read
   id-token: write
 
 # The sequence of runs in this workflow:
@@ -54,5 +54,6 @@ jobs:
           target_branch: output
           build_dir: dist
           commit_message: Update snake animations
+          keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
