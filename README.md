@@ -7,9 +7,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Quality+Assurance+Engineer;Test+Automation+Specialist;Cypress+%26+Selenium+Expert;AI+%26+Computer+Vision+Enthusiast;JavaScript+%26+Python+Developer" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ernani-neto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernani-mendes-da-fonseca-neto-67509b368/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ernani1234)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ernani.neto@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ernani.neto123456@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=Ernani1234&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
@@ -57,11 +57,11 @@ Minha atuação se estende à vanguarda da **Inteligência Artificial**, explora
 
 *   **Bacharelado em Engenharia da Computação**
     *   Universidade Católica Dom Bosco, Campo Grande-MS
-    *   Conclusão: 202X (Ajustar ano conforme currículo)
+    *   Conclusão: 2025
 
 *   **Ensino Médio Completo**
     *   Colégio Nova Geração, Campo Grande-MS
-    *   Conclusão: 202X (Ajustar ano conforme currículo)
+    *   Conclusão: 2019
 
 ---
 
