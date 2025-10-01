@@ -160,7 +160,7 @@ Minha proficiência técnica abrange um espectro diversificado de linguagens, fr
 Para uma visão mais estruturada das minhas áreas de expertise e como elas se interligam, apresento o seguinte diagrama:
 
 <div align="center">
-<img src="./expertise_mindmap.png" alt="Diagrama de Expertise em QA e IA" width="700"/>
+<img src="./expertise_mindmap.svg" alt="Diagrama de Expertise em QA e IA" width="700"/>
 </div>
 
 ---
@@ -174,7 +174,7 @@ Meus projetos refletem a aplicação prática de minhas habilidades em QA, autom
 ### 🎯 [CyGen - Cypress Test Generator](https://github.com/Ernani1234/cygen)
 
 <div align="center">
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" alt="Automation GIF">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Coding Animation">
 </div>
 
 **Descrição:** Uma ferramenta revolucionária para a **geração automatizada de testes Cypress**, utilizando o poder da inteligência artificial para otimizar o processo de desenvolvimento e manutenção de testes. O CyGen se destaca por sua capacidade de aprender e adaptar-se, proporcionando uma experiência de teste mais inteligente e menos suscetível a erros.
@@ -194,7 +194,7 @@ Meus projetos refletem a aplicação prática de minhas habilidades em QA, autom
 ### 🏠 [Home Security AI](https://github.com/Ernani1234/home-security-AI)
 
 <div align="center">
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="300" alt="AI Security GIF">
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="AI Neural Network">
 </div>
 
 **Descrição:** Um sistema de segurança residencial inovador que integra **Inteligência Artificial** e **Visão Computacional** para oferecer monitoramento e proteção avançados. Este projeto demonstra a aplicação de IA em cenários de segurança, proporcionando detecção inteligente e alertas em tempo real.
