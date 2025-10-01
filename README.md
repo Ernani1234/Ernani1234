@@ -27,10 +27,10 @@
   </picture>
 </div>
 
-### 📈 Detalhes das Contribuições com Legendas
+### 📅 Gráfico de Atividade Detalhado
 
 <div align="center">
-  <img src="https://github.com/Ernani1234/Ernani1234/blob/main/profile-summary-card-output/0-profile-details.svg" alt="Profile Details with Month and Week Labels" />
+  <img src="https://github.com/Ernani1234/Ernani1234/blob/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Gráfico de contribuições com legendas de meses e semanas" />
 </div>
 
 ---

@@ -24,3 +24,4 @@ jobs:
           UTC_OFFSET: -4  # Fuso horário do Brasil (UTC-4)
           EXCLUDE: ""
           AUTO_PUSH: true
+          THEME: "github_dark"  # Tema escuro para melhor visibilidade
