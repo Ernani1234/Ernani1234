@@ -20,7 +20,11 @@
 ## 📊 Contribuições dos Últimos 12 Meses
 
 <div align="center">
-  <img src="https://github.com/Ernani1234/Ernani1234/blob/output/github-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ernani1234/Ernani1234/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ernani1234/Ernani1234/blob/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://github.com/Ernani1234/Ernani1234/blob/output/github-snake.svg" />
+  </picture>
 </div>
 
 ---
