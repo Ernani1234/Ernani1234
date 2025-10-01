@@ -27,21 +27,22 @@
 
 #### 3. **Projeto CyGen (Linha ~75)**
 ```markdown
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" alt="Automation GIF">
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="Cypress Testing GIF">
 ```
-**Alternativas para Automação:**
-- `https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif` (Testing)
-- `https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif` (Automation)
+**Alternativas para Testes/Cypress:**
+- `https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif` (Test Automation)
 - `https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif` (Code Generation)
+- `https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif` (Testing Process)
 
 #### 4. **Projeto Home Security AI (Linha ~95)**
 ```markdown
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="300" alt="AI Security GIF">
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" alt="AI Computer Vision GIF">
 ```
-**Alternativas para IA/Segurança:**
-- `https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif` (AI Brain)
-- `https://media.giphy.com/media/3o7qDSOvfaCO9b3MlO/giphy.gif` (Security)
+**Alternativas para IA/Visão Computacional:**
 - `https://media.giphy.com/media/26BRBKqUiq586bRVm/giphy.gif` (Computer Vision)
+- `https://media.giphy.com/media/3o7qDSOvfaCO9b3MlO/giphy.gif` (AI Brain Processing)
+- `https://media.giphy.com/media/l0HlPystfePnAI3G8/giphy.gif` (Neural Network)
+- `https://media.giphy.com/media/3oKIPf3C7HqqYBVcCk/giphy.gif` (Security Camera AI)
 
 #### 5. **Footer Section (Linha ~180)**
 ```markdown

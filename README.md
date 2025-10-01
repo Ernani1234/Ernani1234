@@ -64,7 +64,7 @@ Sou um **QA Engineer** apaixonado por automação de testes e qualidade de softw
 ### 🎯 [CyGen - Cypress Test Generator](https://github.com/Ernani1234/cygen)
 
 <div align="center">
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" alt="Automation GIF">
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="Cypress Testing GIF">
 </div>
 
 **🚀 Ferramenta Avançada de Geração de Testes Cypress com IA**
@@ -84,7 +84,7 @@ Sou um **QA Engineer** apaixonado por automação de testes e qualidade de softw
 ### 🏠 [Home Security AI](https://github.com/Ernani1234/home-security-AI)
 
 <div align="center">
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="300" alt="AI Security GIF">
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" alt="AI Computer Vision GIF">
 </div>
 
 **🛡️ Sistema de Segurança Residencial com Inteligência Artificial**
