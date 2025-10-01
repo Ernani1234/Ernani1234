@@ -17,31 +17,7 @@
 
 ---
 
-## 📊 Contribuições dos Últimos 12 Meses
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ernani1234/Ernani1234/blob/output/github-contribution-grid-snake.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ernani1234/Ernani1234/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/Ernani1234/Ernani1234/blob/output/github-contribution-grid-snake.svg" />
-  </picture>
-  
-  <!-- Legenda de Contribuições -->
-  <div style="margin-top: 10px; display: flex; justify-content: center; align-items: center; gap: 5px; font-size: 12px; color: #656d76;">
-    <span>Less</span>
-    <div style="width: 10px; height: 10px; background-color: #ebedf0; border-radius: 2px; margin: 0 2px;"></div>
-    <div style="width: 10px; height: 10px; background-color: #9be9a8; border-radius: 2px; margin: 0 2px;"></div>
-    <div style="width: 10px; height: 10px; background-color: #40c463; border-radius: 2px; margin: 0 2px;"></div>
-    <div style="width: 10px; height: 10px; background-color: #30a14e; border-radius: 2px; margin: 0 2px;"></div>
-    <div style="width: 10px; height: 10px; background-color: #216e39; border-radius: 2px; margin: 0 2px;"></div>
-    <span>More</span>
-  </div>
-</div>
-
-![snake gif](https://github.com/Ernani1234/Ernani1234/blob/output/github-snake-dark.svg)
-
 ---
-
 
 
 ## 🎯 Sobre Mim
