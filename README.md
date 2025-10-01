@@ -23,9 +23,16 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Sou **Ernani Mendes da Fonseca Neto**, um **Engenheiro da Computação** com uma paixão inabalável por **Qualidade de Software (QA)** e **Desenvolvimento de Inteligência Artificial**. Minha jornada profissional é impulsionada pela busca contínua por soluções inovadoras que otimizem processos e elevem os padrões de qualidade em ambientes tecnológicos dinâmicos. Com expertise em **automação de testes** utilizando ferramentas robustas como Cypress, Selenium e Robot Framework, dedico-me a construir ecossistemas de software resilientes e eficientes.
+Sou **Ernani Mendes da Fonseca Neto**, **Engenheiro da Computação** com paixão por **Quality Assurance (QA)** e **Inteligência Artificial**. 
 
-Minha atuação se estende à vanguarda da **Inteligência Artificial**, explorando seu potencial na segurança e na **visão computacional**, onde desenvolvo e implemento soluções que não apenas garantem a integridade dos sistemas, mas também abrem novos horizontes para a inovação. Acredito que a combinação de uma sólida base em QA com o poder transformador da IA é fundamental para criar produtos de software de excelência, capazes de superar as expectativas e impulsionar o sucesso de qualquer equipe.
+Minha jornada profissional é impulsionada pela busca contínua por soluções inovadoras que otimizem processos e elevem os padrões de qualidade em ambientes tecnológicos dinâmicos. 
+
+Com expertise em **automação de testes** utilizando ferramentas como:
+- **Cypress** e **Selenium** para testes web
+- **Robot Framework** para automação BDD
+- **Jest** para testes unitários
+
+Dedico-me também à vanguarda da **Inteligência Artificial**, explorando seu potencial na segurança e **visão computacional**, desenvolvendo soluções que garantem a integridade dos sistemas e abrem novos horizontes para a inovação.
 
 <br clear="right"/>
 
@@ -35,19 +42,23 @@ Minha atuação se estende à vanguarda da **Inteligência Artificial**, explora
 
 ## 💼 Experiência Profissional
 
-### **Estagiário em QA (Quality Assurance) – Inovvati Tecnologia**
-*   **Período:** 1 ano
-*   **Responsabilidades e Conquistas:**
-    *   Atuação proativa no desenvolvimento e execução de **testes automatizados**, garantindo a cobertura e a eficiência dos processos.
-    *   Elaboração e manutenção de **casos de testes** detalhados, cobrindo funcionalidades, regressão e testes de carga.
-    *   Identificação, documentação e acompanhamento de defeitos, assegurando a **qualidade do software** e a melhoria contínua dos produtos.
-    *   Colaboração com equipes de desenvolvimento para integrar práticas de QA no ciclo de vida do software.
+### **QA Engineer (Estagiário) – Inovvati Tecnologia**
+**Período:** 1 ano
+
+**Principais Responsabilidades:**
+- Desenvolvimento e execução de **testes automatizados** com cobertura completa
+- Elaboração e manutenção de **casos de teste** detalhados (funcionais, regressão e carga)
+- Identificação, documentação e acompanhamento de defeitos
+- Colaboração com equipes de desenvolvimento para integração de práticas de QA
+- Garantia da **qualidade do software** e melhoria contínua dos produtos
 
 ### **Desenvolvedor de Inteligência Artificial**
-*   **Período:** 1 mês
-*   **Responsabilidades e Conquistas:**
-    *   Desenvolvimento e implementação de **soluções de IA**, explorando algoritmos e modelos para resolver desafios específicos.
-    *   Contribuição para projetos que envolvem a aplicação de inteligência artificial em diversos contextos tecnológicos.
+**Período:** 1 mês
+
+**Principais Responsabilidades:**
+- Desenvolvimento e implementação de **soluções de IA**
+- Aplicação de algoritmos e modelos para resolver desafios específicos
+- Contribuição em projetos de inteligência artificial em diversos contextos tecnológicos
 
 ---
 
@@ -55,13 +66,13 @@ Minha atuação se estende à vanguarda da **Inteligência Artificial**, explora
 
 ## 🎓 Formação Acadêmica
 
-*   **Bacharelado em Engenharia da Computação**
-    *   Universidade Católica Dom Bosco, Campo Grande-MS
-    *   Conclusão: 2025
+**Bacharelado em Engenharia da Computação**  
+*Universidade Católica Dom Bosco, Campo Grande-MS*  
+**Conclusão:** 2025
 
-*   **Ensino Médio Completo**
-    *   Colégio Nova Geração, Campo Grande-MS
-    *   Conclusão: 2019
+**Ensino Médio Completo**  
+*Colégio Nova Geração, Campo Grande-MS*  
+**Conclusão:** 2019
 
 ---
 
@@ -69,25 +80,22 @@ Minha atuação se estende à vanguarda da **Inteligência Artificial**, explora
 
 ## 🏆 Certificações & Formações Complementares
 
-Minha dedicação ao aprimoramento contínuo é evidenciada por uma série de certificações que abrangem desde a garantia de qualidade e automação de testes até o desenvolvimento em linguagens chave e conhecimentos em áreas emergentes como a Lei Geral de Proteção de Dados (LGPD).
+Minha dedicação ao aprimoramento contínuo é evidenciada por certificações que abrangem desde garantia de qualidade e automação de testes até desenvolvimento em linguagens-chave e conhecimentos em LGPD.
 
 <div align="center">
 
-| Certificação | Instituição | Data de Conclusão | Carga Horária/Duração |
+| **Certificação** | **Instituição** | **Conclusão** | **Carga Horária** |
 |:---|:---|:---:|:---:|
-| **Formação Carreira QA: Processos e Automação de Testes** | Alura | 24 de janeiro de 2025 | 52 horas |
-| **Quality Assurance: Plano de Testes e Gestão de Bugs** | Alura | 17 de janeiro de 2025 | 8 horas |
-| **Robot Framework: Automatizando Testes no Padrão BDD** | Alura | 24 de janeiro de 2025 | 8 horas |
-| **Lógica de Programação: Mergulhe em Programação com JavaScript** | Alura | 20 de janeiro de 2025 | 6 horas |
-| **JavaScript [40 Horas]** | Curso em Vídeo | 10 de setembro de 2024 | 40 horas |
-| **Teste de Software: Seja um Expert e Impulsione Sua Carreira** | Udemy | 18 de novembro de 2024 | 3 horas |
-| **LGPD - Módulo 1** | Inovvati Tecnologia / Contato Seguro | 24 de junho de 2025 | - |
-| **LGPD - Módulo 2** | Inovvati Tecnologia / Contato Seguro | 24 de junho de 2025 | - |
-| **LGPD - Módulo 3** | Inovvati Tecnologia / Contato Seguro | 24 de junho de 2025 | - |
-| **LGPD - Treinamento/Palestra** | Inovvati Tecnologia / Contato Seguro | 24 de junho de 2025 | - |
-| **Empreendedorismo e Negócios - Do MS para o Mundo** | Universidade Católica Dom Bosco (UCDB) | 19 de março de 2024 | 2 horas |
-| **VIII Encontro da Rede PDIMAT - ECG2022** | Universidade Católica Dom Bosco (UCDB) | 07 a 09 de novembro de 2022 | 19 horas |
-| **XIV ENGMEC MS - 14º Encontro Regional dos Engenheiros Mecânico e Industrial de Mato Grosso do Sul** | Universidade Católica Dom Bosco (UCDB) | 28 de março de 2023 | 7 horas |
+| **Formação Carreira QA: Processos e Automação de Testes** | Alura | 24/01/2025 | 52h |
+| **Quality Assurance: Plano de Testes e Gestão de Bugs** | Alura | 17/01/2025 | 8h |
+| **Robot Framework: Automatizando Testes no Padrão BDD** | Alura | 24/01/2025 | 8h |
+| **Lógica de Programação: Mergulhe em Programação com JavaScript** | Alura | 20/01/2025 | 6h |
+| **JavaScript [40 Horas]** | Curso em Vídeo | 10/09/2024 | 40h |
+| **Teste de Software: Seja um Expert e Impulsione Sua Carreira** | Udemy | 18/11/2024 | 3h |
+| **LGPD - Módulos 1, 2, 3 + Treinamento/Palestra** | Inovvati Tecnologia | 24/06/2025 | - |
+| **Empreendedorismo e Negócios - Do MS para o Mundo** | UCDB | 19/03/2024 | 2h |
+| **VIII Encontro da Rede PDIMAT - ECG2022** | UCDB | 07-09/11/2022 | 19h |
+| **XIV ENGMEC MS** | UCDB | 28/03/2023 | 7h |
 
 </div>
 
@@ -102,36 +110,44 @@ Minha proficiência técnica abrange um espectro diversificado de linguagens, fr
 <div align="center">
 
 ### 🧪 Testing & QA
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![TestRail](https://img.shields.io/badge/TestRail-007ACC?style=for-the-badge&logo=testrail&logoColor=white)
+
+[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io/)
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://selenium-python.readthedocs.io/)
+[![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)](https://robotframework.org/)
+
+[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![TestRail](https://img.shields.io/badge/TestRail-007ACC?style=for-the-badge&logo=testrail&logoColor=white)](https://www.testrail.com/)
 
 ### 💻 Linguagens de Programação
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://en.cppreference.com/w/c)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 ### 🤖 AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)](https://opencv.org/)
+[![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 
 ### 🔧 Ferramentas & Plataformas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-000000?style=for-the-badge&logo=proteus&logoColor=white)
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Proteus](https://img.shields.io/badge/Proteus-000000?style=for-the-badge&logo=proteus&logoColor=white)](https://www.labcenter.com/)
 
 </div>
 
