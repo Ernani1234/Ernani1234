@@ -160,7 +160,174 @@ Minha proficiência técnica abrange um espectro diversificado de linguagens, fr
 Para uma visão mais estruturada das minhas áreas de expertise e como elas se interligam, apresento o seguinte diagrama:
 
 <div align="center">
-<img src="./expertise_mindmap.svg" alt="Diagrama de Expertise em QA e IA" width="700"/>
+<svg width="700" height="525" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="qaGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2E7D32;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="aiGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1565C0;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="centerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#F57C00;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
+    Expertise em QA e Inteligência Artificial
+  </text>
+  
+  <!-- Central Node -->
+  <circle cx="400" cy="300" r="80" fill="url(#centerGradient)" filter="url(#shadow)"/>
+  <text x="400" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    ERNANI
+  </text>
+  <text x="400" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    QA & AI Expert
+  </text>
+  
+  <!-- QA Branch (Left Side) -->
+  <line x1="320" y1="300" x2="200" y2="200" stroke="#4CAF50" stroke-width="3"/>
+  <circle cx="200" cy="200" r="60" fill="url(#qaGradient)" filter="url(#shadow)"/>
+  <text x="200" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Quality
+  </text>
+  <text x="200" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Assurance
+  </text>
+  
+  <!-- QA Sub-branches -->
+  <line x1="160" y1="160" x2="80" y2="100" stroke="#4CAF50" stroke-width="2"/>
+  <ellipse cx="80" cy="100" rx="70" ry="25" fill="#66BB6A" filter="url(#shadow)"/>
+  <text x="80" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    Test Automation
+  </text>
+  
+  <line x1="140" y1="200" x2="50" y2="200" stroke="#4CAF50" stroke-width="2"/>
+  <ellipse cx="50" cy="200" rx="45" ry="20" fill="#66BB6A" filter="url(#shadow)"/>
+  <text x="50" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    Cypress
+  </text>
+  
+  <line x1="160" y1="240" x2="80" y2="300" stroke="#4CAF50" stroke-width="2"/>
+  <ellipse cx="80" cy="300" rx="45" ry="20" fill="#66BB6A" filter="url(#shadow)"/>
+  <text x="80" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    Selenium
+  </text>
+  
+  <line x1="200" y1="260" x2="200" y2="350" stroke="#4CAF50" stroke-width="2"/>
+  <ellipse cx="200" cy="350" rx="55" ry="20" fill="#66BB6A" filter="url(#shadow)"/>
+  <text x="200" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    API Testing
+  </text>
+  
+  <line x1="240" y1="240" x2="320" y2="300" stroke="#4CAF50" stroke-width="2"/>
+  <ellipse cx="320" cy="300" rx="60" ry="20" fill="#66BB6A" filter="url(#shadow)"/>
+  <text x="320" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    Performance Testing
+  </text>
+  
+  <!-- AI Branch (Right Side) -->
+  <line x1="480" y1="300" x2="600" y2="200" stroke="#2196F3" stroke-width="3"/>
+  <circle cx="600" cy="200" r="60" fill="url(#aiGradient)" filter="url(#shadow)"/>
+  <text x="600" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Artificial
+  </text>
+  <text x="600" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Intelligence
+  </text>
+  
+  <!-- AI Sub-branches -->
+  <line x1="640" y1="160" x2="720" y2="100" stroke="#2196F3" stroke-width="2"/>
+  <ellipse cx="720" cy="100" rx="65" ry="25" fill="#42A5F5" filter="url(#shadow)"/>
+  <text x="720" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    Machine Learning
+  </text>
+  
+  <line x1="660" y1="200" x2="750" y2="200" stroke="#2196F3" stroke-width="2"/>
+  <ellipse cx="750" cy="200" rx="45" ry="20" fill="#42A5F5" filter="url(#shadow)"/>
+  <text x="750" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    Python
+  </text>
+  
+  <line x1="640" y1="240" x2="720" y2="300" stroke="#2196F3" stroke-width="2"/>
+  <ellipse cx="720" cy="300" rx="55" ry="20" fill="#42A5F5" filter="url(#shadow)"/>
+  <text x="720" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    TensorFlow
+  </text>
+  
+  <line x1="600" y1="260" x2="600" y2="350" stroke="#2196F3" stroke-width="2"/>
+  <ellipse cx="600" cy="350" rx="60" ry="20" fill="#42A5F5" filter="url(#shadow)"/>
+  <text x="600" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    Computer Vision
+  </text>
+  
+  <line x1="560" y1="240" x2="480" y2="300" stroke="#2196F3" stroke-width="2"/>
+  <ellipse cx="480" cy="300" rx="45" ry="20" fill="#42A5F5" filter="url(#shadow)"/>
+  <text x="480" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    OpenAI
+  </text>
+  
+  <!-- Integration Branch (Bottom) -->
+  <line x1="400" y1="380" x2="400" y2="480" stroke="#9C27B0" stroke-width="3"/>
+  <ellipse cx="400" cy="480" rx="80" ry="30" fill="#AB47BC" filter="url(#shadow)"/>
+  <text x="400" y="485" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    QA + AI Integration
+  </text>
+  
+  <!-- Integration Sub-branches -->
+  <line x1="320" y1="480" x2="250" y2="520" stroke="#9C27B0" stroke-width="2"/>
+  <ellipse cx="250" cy="520" rx="70" ry="20" fill="#BA68C8" filter="url(#shadow)"/>
+  <text x="250" y="525" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+    Intelligent Test Generation
+  </text>
+  
+  <line x1="480" y1="480" x2="550" y2="520" stroke="#9C27B0" stroke-width="2"/>
+  <ellipse cx="550" cy="520" rx="65" ry="20" fill="#BA68C8" filter="url(#shadow)"/>
+  <text x="550" y="525" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+    Automated Bug Detection
+  </text>
+  
+  <!-- Tools Branch (Top) -->
+  <line x1="400" y1="220" x2="400" y2="120" stroke="#FF5722" stroke-width="3"/>
+  <ellipse cx="400" cy="120" rx="60" ry="25" fill="#FF7043" filter="url(#shadow)"/>
+  <text x="400" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    Development Tools
+  </text>
+  
+  <!-- Tools Sub-branches -->
+  <line x1="340" y1="120" x2="280" y2="80" stroke="#FF5722" stroke-width="2"/>
+  <ellipse cx="280" cy="80" rx="35" ry="15" fill="#FF8A65" filter="url(#shadow)"/>
+  <text x="280" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+    Git
+  </text>
+  
+  <line x1="460" y1="120" x2="520" y2="80" stroke="#FF5722" stroke-width="2"/>
+  <ellipse cx="520" cy="80" rx="40" ry="15" fill="#FF8A65" filter="url(#shadow)"/>
+  <text x="520" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+    Docker
+  </text>
+  
+  <!-- Legend -->
+  <rect x="20" y="520" width="200" height="70" fill="white" stroke="#ddd" stroke-width="1" rx="5"/>
+  <text x="30" y="540" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+    Legenda:
+  </text>
+  <circle cx="40" cy="555" r="8" fill="#4CAF50"/>
+  <text x="55" y="560" font-family="Arial, sans-serif" font-size="10" fill="#333">Quality Assurance</text>
+  <circle cx="40" cy="575" r="8" fill="#2196F3"/>
+  <text x="55" y="580" font-family="Arial, sans-serif" font-size="10" fill="#333">Artificial Intelligence</text>
+</svg>
 </div>
 
 ---
