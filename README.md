@@ -178,25 +178,6 @@ Meus projetos refletem a aplicação prática de minhas habilidades em QA, autom
 
 [![Ver Projeto](https://img.shields.io/badge/Ver%20Projeto-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ernani1234/cygen)
 
----
-
-### 🏠 [Home Security AI](https://github.com/Ernani1234/home-security-AI)
-
-<div align="center">
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="AI Neural Network">
-</div>
-
-**Descrição:** Um sistema de segurança residencial inovador que integra **Inteligência Artificial** e **Visão Computacional** para oferecer monitoramento e proteção avançados. Este projeto demonstra a aplicação de IA em cenários de segurança, proporcionando detecção inteligente e alertas em tempo real.
-
-*   **IA Avançada para Reconhecimento:** Capacidade de aprender e reconhecer padrões em imagens para identificar atividades suspeitas.
-*   **Visão Computacional para Detecção de Movimentos:** Utiliza técnicas de processamento de imagem para detectar movimentos e anomalias no ambiente.
-*   **Alertas em Tempo Real:** Envia notificações instantâneas sobre eventos críticos, garantindo uma resposta rápida.
-*   **Interface Intuitiva e Responsiva:** Um dashboard moderno que facilita o gerenciamento e a visualização das informações de segurança.
-*   **Segurança Robusta e Privacidade:** Projetado com foco na proteção de dados e na privacidade do usuário.
-
-**Tecnologias:** Python, TensorFlow, OpenCV, Computer Vision, Machine Learning
-
-[![Ver Projeto](https://img.shields.io/badge/Ver%20Projeto-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ernani1234/home-security-AI)
 
 ---
 
