@@ -1,252 +1,255 @@
-
-
 <div align="center">
 
-# 🚀 Ernani Mendes da Fonseca Neto
-###  Engenheiro de Computação | QA Analyst | Test Automation Specialist
+<a href="https://www.linkedin.com/in/ernani-mendes-da-fonseca-neto-67509b368/">
+  <img src="./assets/header.svg" width="100%" alt="Ernani Mendes da Fonseca Neto — Desenvolvedor de Sistemas com IA · Engenheiro da Computação"/>
+</a>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Quality+Assurance+Analyst;Test+Automation+Specialist;Cypress+%26+Selenium+Expert;AI+%26+Computer+Vision+Enthusiast;JavaScript+%26+Python+Developer" alt="Typing SVG" />
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernani-mendes-da-fonseca-neto-67509b368/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ernani1234)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ernani.neto123456@gmail.com)
+<a href="https://github.com/Ernani1234">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=640&lines=Integrando+LLMs+em+sistemas+reais;Arquitetura+com+13%2B+servi%C3%A7os+integrados;Rust+%C2%B7+TypeScript+%C2%B7+Python;Privacidade+e+processamento+local+primeiro;Qualidade+desde+o+design+%E2%80%94+ex-QA" alt="Integrando LLMs em sistemas reais · Arquitetura com 13+ serviços · Rust, TypeScript e Python"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=Ernani1234&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernani-mendes-da-fonseca-neto-67509b368/)
+[![Email](https://img.shields.io/badge/Email-Contato-00D9FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:ernani.neto123456@gmail.com)
+[![Projetos](https://img.shields.io/badge/Projetos-Ver_todos-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Ernani1234?tab=repositories)
+<img src="https://komarev.com/ghpvc/?username=Ernani1234&label=visitas&color=00D9FF&style=for-the-badge&labelColor=0D1117" alt="Visitas ao perfil"/>
 
 </div>
 
----
-![snake gif](https://github.com/Ernani1234/Ernani1234/blob/output/github-snake-dark.svg)
----
+<br/>
 
-
-## 🎯 Sobre Mim
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-Sou **Ernani Mendes da Fonseca Neto**, **Engenheiro da Computação** com paixão por **Quality Assurance (QA)** e **Inteligência Artificial**. 
-
-Minha jornada profissional é impulsionada pela busca contínua por soluções inovadoras que otimizem processos e elevem os padrões de qualidade em ambientes tecnológicos dinâmicos. 
-
-Com expertise em **automação de testes** utilizando ferramentas como:
-- **Cypress** e **Selenium** para testes web
-- **Robot Framework** para automação BDD
-- **Jest** para testes unitários
-
-Dedico-me também à vanguarda da **Inteligência Artificial**, explorando seu potencial na segurança e **visão computacional**, desenvolvendo soluções que garantem a integridade dos sistemas e abrem novos horizontes para a inovação.
-
-<br clear="right"/>
-
----
-
-
-
-## 💼 Experiência Profissional
-
-### **QA Analyst (Estagiário) – Inovvati Tecnologia**
-**Período:** 1 ano
-
-**Principais Responsabilidades:**
-- Desenvolvimento e execução de **testes automatizados** com cobertura completa
-- Elaboração e manutenção de **casos de teste** detalhados (funcionais, regressão e carga)
-- Identificação, documentação e acompanhamento de defeitos
-- Colaboração com equipes de desenvolvimento para integração de práticas de QA
-- Garantia da **qualidade do software** e melhoria contínua dos produtos
-
-### **Desenvolvedor de Inteligência Artificial**
-**Período:** 1 mês
-
-**Principais Responsabilidades:**
-- Desenvolvimento e implementação de **soluções de IA**
-- Aplicação de algoritmos e modelos para resolver desafios específicos
-- Contribuição em projetos de inteligência artificial em diversos contextos tecnológicos
-
----
-
-
-
-## 🎓 Formação Acadêmica
-
-**Bacharelado em Engenharia da Computação**  
-*Universidade Católica Dom Bosco, Campo Grande-MS*  
-**Conclusão:** 2025
-
-**Ensino Médio Completo**  
-*Colégio Nova Geração, Campo Grande-MS*  
-**Conclusão:** 2019
-
----
-
-
-
-## 🏆 Certificações & Formações Complementares
-
-Minha dedicação ao aprimoramento contínuo é evidenciada por certificações que abrangem desde garantia de qualidade e automação de testes até desenvolvimento em linguagens-chave e conhecimentos em LGPD.
+## `$ whoami`
 
 <div align="center">
+  <img src="./assets/terminal.svg" width="100%" alt="Terminal: Ernani Mendes da Fonseca Neto, Desenvolvedor de Sistemas com IA na Inovvati Tecnologia. Stack: OpenAI, LLMs, ElevenLabs, Python, TypeScript, Rust, SQL, Cypress, Selenium, Robot Framework, Jest."/>
+</div>
 
-| **Certificação** | **Instituição** | **Conclusão** | **Carga Horária** |
+<br/>
+
+Engenheiro da Computação que começou garantindo a qualidade do software dos outros e hoje constrói sistemas com **Inteligência Artificial** do protótipo à produção. Trabalho com **integração de LLMs**, **arquitetura de serviços** e aplicações completas em **Python, TypeScript e Rust** — sempre com foco em **processamento local, privacidade dos dados e cobertura de testes**.
+
+- 🧠 **Agora:** arquitetura de uma plataforma de inteligência eleitoral com IA, integrando **13+ serviços** (Supabase, Neo4j, Redis, RabbitMQ, Firecrawl, Tavily, Notion, APIs Google…)
+- 🗣️ **IA aplicada:** LLMs da OpenAI, síntese de voz com ElevenLabs, bots sobre bases de conhecimento
+- 🔐 **Nos projetos pessoais:** criptografia autenticada, esteganografia em áudio, análise estática de código
+- 🧪 **Background em QA:** testes E2E com Cypress, planos de regressão e carga — qualidade entra no design, não no fim
+- 🌎 **Idiomas:** português (nativo) · inglês (fluente)
+
+<br/>
+
+## 🧭 Trajetória
+
+<div align="center">
+  <img src="./assets/timeline.svg" width="100%" alt="2024–2025: Analista de QA (estágio) na Inovvati Tecnologia. 2025: Bacharelado em Engenharia da Computação pela UCDB. 2025–atual: Desenvolvedor de Sistemas com IA (trainee) na Inovvati Tecnologia."/>
+</div>
+
+<details>
+<summary><b>Ver detalhes da experiência</b></summary>
+<br/>
+
+**Desenvolvedor de Sistemas com IA (Trainee) — Inovvati Tecnologia** · *2025 – atual*
+- Desenvolvimento de sistemas com integração de LLMs e serviços de IA (OpenAI, síntese de voz com ElevenLabs), do protótipo à integração com o restante da aplicação.
+- Arquitetura de uma plataforma de inteligência eleitoral com IA integrando 13+ serviços externos: Supabase, Neo4j, Redis, RabbitMQ, Firecrawl, Tavily, Notion e APIs Google.
+- Módulos de monitoramento de redes, imprensa, campanha e visualização de dados.
+- Levantamento e documentação de requisitos de um sistema de gestão de ofícios judiciais para órgão público (recebimento por e-mail → ordem de serviço → ofício de resposta).
+
+**Analista de QA (Estágio) — Inovvati Tecnologia** · *2024 – 2025*
+- Criação e manutenção de testes automatizados end-to-end com Cypress.
+- Planos e casos de teste funcionais, de regressão e de carga.
+- Identificação, documentação e acompanhamento de defeitos com o time de desenvolvimento.
+- Capacitação interna em LGPD aplicada ao desenvolvimento de software.
+
+**Bacharelado em Engenharia da Computação — UCDB** · *Campo Grande-MS · 2025*
+- Projetos: analisador léxico, gerador de gramáticas livres de contexto, simulador de autômatos finitos, [filtro de partículas](https://github.com/Ernani1234/filtro-de-particulas), bot sobre base de conhecimento e circuito medidor de força com célula de carga.
+
+</details>
+
+<br/>
+
+## 🚀 Projetos em destaque
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Ernani1234/codereader">
+        <img src="https://raw.githubusercontent.com/Ernani1234/codereader/HEAD/docs/visao-geral.png" width="100%" alt="Painel de visão geral do CodeReader"/>
+      </a>
+      <h3><a href="https://github.com/Ernani1234/codereader">CodeReader</a></h3>
+      <p>Aponte para uma pasta e entenda o que há dentro. Varre o repositório, mapeia arquivos, funções, classes e imports, monta o <b>grafo de dependências</b> e gera painel navegável, diagramas e documentação exportável. Análise <b>100% local</b>; IA opcional para explicar funcionalidades.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/executável_único-0D1117?style=flat-square" alt="Executável único"/>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Ernani1234/passec">
+        <img src="https://raw.githubusercontent.com/Ernani1234/passec/HEAD/docs/vault-item.png" width="100%" alt="Cofre do PASSEC com um item aberto"/>
+      </a>
+      <h3><a href="https://github.com/Ernani1234/passec">PASSEC</a></h3>
+      <p>Cofre de credenciais <b>offline</b> com criptografia autenticada e <b>Argon2id</b>, 2FA (TOTP), Windows Hello e keyfile. Exporta o cofre como áudio e o esconde dentro de músicas (<b>esteganografia</b>). <b>162 testes automatizados.</b></p>
+      <img src="https://img.shields.io/badge/Rust-B7410E?style=flat-square&logo=rust&logoColor=white" alt="Rust"/>
+      <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white" alt="Tauri"/>
+      <img src="https://img.shields.io/badge/testes-162_passando-3FB950?style=flat-square" alt="162 testes passando"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Ernani1234/kleanr">
+        <img src="./assets/kleanr.svg" width="100%" alt="Ilustração do Kleanr: uso de disco por pasta e pergunta à IA"/>
+      </a>
+      <h3><a href="https://github.com/Ernani1234/kleanr">Kleanr</a></h3>
+      <p>Analisador de disco para Windows com interface web servida localmente (restrita a <code>127.0.0.1</code>). Mostra o uso de espaço, <b>classifica o que é seguro apagar</b>, encontra duplicatas e responde perguntas sobre as pastas com IA. Zero dependências; executável de 7,7 MB.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/stdlib_only-0D1117?style=flat-square" alt="Sem dependências"/>
+      <img src="https://img.shields.io/badge/IA-integrada-8B5CF6?style=flat-square" alt="IA integrada"/>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Ernani1234/storyteller">
+        <img src="https://raw.githubusercontent.com/Ernani1234/storyteller/HEAD/docs/assets/demo.svg" width="100%" alt="Demonstração animada do Storyteller montando a árvore de uma história"/>
+      </a>
+      <h3><a href="https://github.com/Ernani1234/storyteller">Storyteller</a></h3>
+      <p>Digite o nome de <b>qualquer obra</b> — filme, série, livro, anime ou jogo — e o app reconstrói toda a narrativa como uma <b>árvore interativa de capítulos</b> gerada por IA, para explorar no seu ritmo.</p>
+      <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Ernani1234/cygen">
+        <img src="./assets/cygen.svg" width="100%" alt="Ilustração do CyGen: cliques no navegador viram testes Cypress"/>
+      </a>
+      <h3><a href="https://github.com/Ernani1234/cygen">CyGen</a></h3>
+      <p>Gerador de testes <b>Cypress com IA</b>: captura as interações no navegador, gera testes seguindo a estrutura do projeto, oferece editor assistido por IA e <b>controle de custo</b> de uso da API.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"/>
+      <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" alt="Cypress"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧰 Outros projetos</h3>
+      <p>
+        📦 <a href="https://github.com/Ernani1234/migration_verifier"><b>migration_verifier</b></a><br/>
+        <sub>Verificador de migração de grandes volumes de dados — BigQuery, S3 e Redshift.</sub>
+      </p>
+      <p>
+        📄 <a href="https://github.com/Ernani1234/pdf-writer"><b>pdf-writer</b></a><br/>
+        <sub>Editor de PDF com diversas operações de manipulação.</sub>
+      </p>
+      <p>
+        🗂️ <a href="https://github.com/Ernani1234/ultra-texto"><b>ultra-texto</b></a><br/>
+        <sub>Consolida repositórios inteiros em um único arquivo de texto, além de clonar estruturas de pastas.</sub>
+      </p>
+      <p>
+        ⌨️ <a href="https://github.com/Ernani1234/hubcommands_for_github"><b>hubcommands</b></a><br/>
+        <sub>Hub de comandos de terminal explicados, com execução automática.</sub>
+      </p>
+      <p>
+        🌦️ <a href="https://github.com/Ernani1234/winder"><b>winder</b></a><br/>
+        <sub>Widget de previsão do tempo usando API pública.</sub>
+      </p>
+      <p>
+        🎯 <a href="https://github.com/Ernani1234/filtro-de-particulas"><b>filtro-de-particulas</b></a><br/>
+        <sub>Filtro de partículas para rastreamento e estimação de estado.</sub>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 🛠️ Stack
+
+<table>
+  <tr>
+    <td align="center" width="140"><b>IA & LLMs</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark" height="40" alt="TensorFlow, OpenCV, scikit-learn"/>&nbsp;
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="28" alt="OpenAI"/>
+      <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white" height="28" alt="ElevenLabs"/>
+      <img src="https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=for-the-badge" height="28" alt="Prompt Engineering"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Linguagens</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,ts,js,rust,c,cs,java&theme=dark" height="40" alt="Python, TypeScript, JavaScript, Rust, C, C#, Java"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frameworks</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nodejs,electron,tauri&theme=dark" height="40" alt="React, Node.js, Electron, Tauri"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Dados & Infra</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,supabase,redis,rabbitmq,docker,git,githubactions&theme=dark" height="40" alt="PostgreSQL, Supabase, Redis, RabbitMQ, Docker, Git, GitHub Actions"/>&nbsp;
+      <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" height="28" alt="Neo4j"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Testes & QA</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=cypress,selenium,jest&theme=dark" height="40" alt="Cypress, Selenium, Jest"/>&nbsp;
+      <img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white" height="28" alt="Robot Framework"/>
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="28" alt="Jira"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 📊 Atividade
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ernani1234/Ernani1234/output/stats.svg" width="49%" alt="Estatísticas do GitHub"/>
+  <img src="https://raw.githubusercontent.com/Ernani1234/Ernani1234/output/languages.svg" width="49%" alt="Linguagens mais usadas"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ernani1234/Ernani1234/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ernani1234/Ernani1234/output/github-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/Ernani1234/Ernani1234/output/github-snake-dark.svg" width="100%" alt="Cobrinha percorrendo o gráfico de contribuições"/>
+  </picture>
+</div>
+
+<br/>
+
+## 🏆 Certificações
+
+<details>
+<summary><b>Ver certificações e formações complementares</b></summary>
+<br/>
+
+| Certificação | Instituição | Ano | Carga |
 |:---|:---|:---:|:---:|
-| **Formação Carreira QA: Processos e Automação de Testes** | Alura | 24/01/2025 | 52h |
-| **Quality Assurance: Plano de Testes e Gestão de Bugs** | Alura | 17/01/2025 | 8h |
-| **Robot Framework: Automatizando Testes no Padrão BDD** | Alura | 24/01/2025 | 8h |
-| **Lógica de Programação: Mergulhe em Programação com JavaScript** | Alura | 20/01/2025 | 6h |
-| **JavaScript [40 Horas]** | Curso em Vídeo | 10/09/2024 | 40h |
-| **Teste de Software: Seja um Expert e Impulsione Sua Carreira** | Udemy | 18/11/2024 | 3h |
-| **LGPD - Módulos 1, 2, 3 + Treinamento/Palestra** | Inovvati Tecnologia | 24/06/2025 | - |
-| **Empreendedorismo e Negócios - Do MS para o Mundo** | UCDB | 19/03/2024 | 2h |
-| **VIII Encontro da Rede PDIMAT - ECG2022** | UCDB | 07-09/11/2022 | 19h |
-| **XIV ENGMEC MS** | UCDB | 28/03/2023 | 7h |
+| Formação Carreira QA: Processos e Automação de Testes | Alura | 2025 | 52h |
+| Quality Assurance: Plano de Testes e Gestão de Bugs | Alura | 2025 | 8h |
+| Robot Framework: Automatizando Testes no Padrão BDD | Alura | 2025 | 8h |
+| Lógica de Programação: Mergulhe em Programação com JavaScript | Alura | 2025 | 6h |
+| LGPD — Módulos 1, 2 e 3 + Treinamento | Inovvati Tecnologia | 2025 | — |
+| JavaScript | Curso em Vídeo | 2024 | 40h |
+| Teste de Software: Seja um Expert | Udemy | 2024 | 3h |
+| Empreendedorismo e Negócios — Do MS para o Mundo | UCDB | 2024 | 2h |
+| XIV ENGMEC MS | UCDB | 2023 | 7h |
+| VIII Encontro da Rede PDIMAT — ECG2022 | UCDB | 2022 | 19h |
 
-</div>
+</details>
 
----
-
-
-
-## 🛠️ Stack Tecnológica & Expertise
-
-Minha proficiência técnica abrange um espectro diversificado de linguagens, frameworks e ferramentas, com um foco especial em **Quality Assurance** e **Inteligência Artificial**. Abaixo, detalho as principais tecnologias e áreas de expertise que utilizo para desenvolver soluções robustas e inovadoras.
+<br/>
 
 <div align="center">
 
-### 🧪 Testing & QA
+### Vamos conversar?
 
-[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io/)
-[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://selenium-python.readthedocs.io/)
-[![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)](https://robotframework.org/)
+Aberto a conversas sobre **IA aplicada**, **arquitetura de sistemas** e **qualidade de software**.
 
-[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
-[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
-[![TestRail](https://img.shields.io/badge/TestRail-007ACC?style=for-the-badge&logo=testrail&logoColor=white)](https://www.testrail.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernani-mendes-da-fonseca-neto-67509b368/)
+[![Email](https://img.shields.io/badge/ernani.neto123456@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:ernani.neto123456@gmail.com)
 
-### 💻 Linguagens de Programação
+<sub><i>"A qualidade nunca é um acidente; é sempre o resultado de um esforço inteligente." — John Ruskin</i></sub>
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-
-[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://en.cppreference.com/w/c)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-
-### 🤖 AI & Machine Learning
-
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)](https://opencv.org/)
-[![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-
-### 🔧 Ferramentas & Plataformas
-
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
-
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
-[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
-
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Proteus](https://img.shields.io/badge/Proteus-000000?style=for-the-badge&logo=proteus&logoColor=white)](https://www.labcenter.com/)
+<img src="./assets/footer.svg" width="100%" alt=""/>
 
 </div>
-
----
-
-
-
-## 🚀 Projetos em Destaque
-
-Meus projetos refletem a aplicação prática de minhas habilidades em QA, automação e inteligência artificial, resultando em soluções inovadoras e eficientes.
-
-### 🎯 [CyGen - Cypress Test Generator](https://github.com/Ernani1234/cygen)
-
-<div align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Coding Animation">
-</div>
-
-**Descrição:** Uma ferramenta revolucionária para a **geração automatizada de testes Cypress**, utilizando o poder da inteligência artificial para otimizar o processo de desenvolvimento e manutenção de testes. O CyGen se destaca por sua capacidade de aprender e adaptar-se, proporcionando uma experiência de teste mais inteligente e menos suscetível a erros.
-
-*   **Captura Inteligente de Interações:** Registra automaticamente as interações do usuário, transformando-as em scripts de teste robustos.
-*   **Geração de Testes com IA:** Emprega algoritmos avançados de IA para criar testes Cypress otimizados e eficientes.
-*   **Editor Assistido e Personalizável:** Oferece uma interface intuitiva com suporte a comandos personalizados, elevando a produtividade do QA Analyst.
-*   **Controle de Custos e Monitoramento:** Permite o monitoramento preciso do uso de API, garantindo a gestão eficiente dos recursos.
-*   **Interface Visual Moderna:** Apresenta um tema escuro responsivo e uma experiência de usuário fluida.
-
-**Tecnologias:** Python, Selenium, Tkinter, OpenAI API, Cypress
-
-[![Ver Projeto](https://img.shields.io/badge/Ver%20Projeto-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ernani1234/cygen)
-
-
----
-
-
-
-## 📚 Projetos Acadêmicos Relevantes
-
-Durante minha formação em Engenharia da Computação, participei de diversos projetos que consolidaram minhas habilidades técnicas e de resolução de problemas, com foco em áreas como automação, inteligência artificial e desenvolvimento de sistemas.
-
-*   **Bot Treinado em Base de Conhecimento:** Desenvolvimento de um bot interativo para consulta e recuperação de informações, aplicando conceitos de processamento de linguagem natural e IA.
-*   **Simulador de Autômatos Finitos:** Criação de uma ferramenta para simulação e visualização do comportamento de autômatos finitos, essencial para o estudo de teoria da computação.
-*   **Gerador GLC (Gramáticas Livres de Contexto):** Implementação de um gerador de gramáticas livres de contexto, ferramenta fundamental para a análise sintática em compiladores.
-*   **Circuito Medidor de Força:** Projeto e construção de um circuito eletrônico utilizando célula de carga, demonstrando conhecimentos em eletrônica e instrumentação.
-*   **Analisador Léxico:** Desenvolvimento de um analisador léxico para processamento de linguagens, componente crucial na construção de compiladores e interpretadores.
-*   **CRUD (Create, Read, Update, Delete):** Implementação de operações CRUD em sistemas, aplicando princípios de banco de dados e desenvolvimento web.
-*   **Filtro de Partículas:** Projeto e aplicação de algoritmos de filtro de partículas, com foco em sistemas de rastreamento e estimação de estado.
-
----
-
-
-
-## 📊 Estatísticas GitHub
-
-Minha atividade e contribuições no GitHub refletem meu engajamento e paixão pelo desenvolvimento de software. Acompanhe minhas estatísticas e veja as linguagens que mais utilizo:
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ernani1234&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ernani1234&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ernani1234&theme=tokyonight)
-
-</div>
-
----
-
-
-
-## 📈 Atividade de Contribuições
-
-Meu gráfico de atividade demonstra a consistência e o volume das minhas contribuições em projetos de código aberto e repositórios privados, refletindo um compromisso contínuo com o desenvolvimento e a inovação.
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ernani1234&theme=tokyo-night&hide_border=true)
-
-</div>
-
----
-
-
-
-## 🤝 Vamos Conectar!
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Adoro conectar com pessoas diferentes!</b> Se você quer conversar sobre QA, automação de testes, IA ou qualquer coisa tech, sinta-se à vontade para me chamar!</em>
-
----
-
-### 💬 *"A qualidade nunca é um acidente; é sempre o resultado de um esforço inteligente."*
-
----
-
-**⭐ Se você gostou dos meus projetos, não esqueça de dar uma estrela!**
-
-</div>
-

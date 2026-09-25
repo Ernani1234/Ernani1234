@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="800" height="450" viewBox="0 0 800 450" role="img" aria-label="Ilustração do CyGen: interações no navegador viram testes Cypress gerados por IA">
+  <title>CyGen</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1220"/><stop offset="1" stop-color="#101626"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00D9FF" stop-opacity="0"/><stop offset=".5" stop-color="#00D9FF"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="code"><rect x="420" y="90" width="0" height="300"><animate attributeName="width" values="0;0;340;340" keyTimes="0;.25;.7;1" dur="6s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
+  <style>
+    .t { font-family: 'Segoe UI', Ubuntu, Arial, sans-serif; }
+    .m { font-family: 'Cascadia Code', Consolas, monospace; font-size: 13px; }
+    .click { transform-box: fill-box; transform-origin: center; animation: click 6s ease-out infinite; }
+    @keyframes click { 0%,8% { opacity: 0; transform: scale(.3) } 12% { opacity: .9 } 22%,100% { opacity: 0; transform: scale(2.2) } }
+    .pointer { animation: move 6s ease-in-out infinite; }
+    @keyframes move { 0% { transform: translate(0,0) } 10%,30% { transform: translate(40px,62px) } 45%,65% { transform: translate(40px,190px) } 85%,100% { transform: translate(0,0) } }
+    .flow { stroke-dasharray: 6 8; animation: flow 1s linear infinite; }
+    @keyframes flow { to { stroke-dashoffset: -28 } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important } }
+  </style>
+  <rect width="800" height="450" rx="16" fill="url(#bg)"/>
+  <rect x=".5" y=".5" width="799" height="449" rx="16" fill="none" stroke="#30363D"/>
+
+  <!-- browser -->
+  <g class="t">
+    <rect x="30" y="60" width="330" height="330" rx="12" fill="#F6F8FA"/>
+    <rect x="30" y="60" width="330" height="34" rx="12" fill="#D0D7DE"/>
+    <rect x="30" y="80" width="330" height="14" fill="#D0D7DE"/>
+    <rect x="80" y="68" width="260" height="18" rx="9" fill="#F6F8FA"/>
+    <text x="92" y="81" font-size="11" fill="#57606A">app.exemplo.com/login</text>
+    <text x="60" y="140" font-size="20" font-weight="700" fill="#24292F">Entrar</text>
+    <text x="60" y="172" font-size="12" fill="#57606A">E-mail</text>
+    <rect x="60" y="180" width="270" height="34" rx="6" fill="#fff" stroke="#D0D7DE"/>
+    <text x="72" y="202" font-size="13" fill="#24292F">qa@exemplo.com</text>
+    <text x="60" y="240" font-size="12" fill="#57606A">Senha</text>
+    <rect x="60" y="248" width="270" height="34" rx="6" fill="#fff" stroke="#D0D7DE"/>
+    <text x="72" y="270" font-size="13" fill="#24292F">••••••••</text>
+    <rect x="60" y="306" width="270" height="38" rx="6" fill="#1F883D"/>
+    <text x="195" y="330" text-anchor="middle" font-size="14" font-weight="600" fill="#fff">Acessar</text>
+  </g>
+  <!-- pointer + click ripples -->
+  <circle class="click" cx="195" cy="197" r="12" fill="#00D9FF"/>
+  <circle class="click" style="animation-delay:2.4s" cx="195" cy="325" r="12" fill="#00D9FF"/>
+  <g class="pointer"><path transform="translate(155 135)" d="M0 0l0 22l6-6l5 10l4-2l-5-10l8 0z" fill="#24292F" stroke="#fff" stroke-width="1.5"/></g>
+
+  <!-- AI bridge -->
+  <path class="flow" d="M366 225H414" stroke="url(#beam)" stroke-width="3" fill="none"/>
+  <g transform="translate(390 196)">
+    <circle r="16" fill="#161B22" stroke="#8B5CF6"/>
+    <text y="5" text-anchor="middle" font-size="14" fill="#A78BFA">✦</text>
+  </g>
+
+  <!-- generated code -->
+  <rect x="420" y="60" width="350" height="330" rx="12" fill="#0D1117" stroke="#30363D"/>
+  <text x="440" y="82" class="m" fill="#8B949E">cypress/e2e/login.cy.js</text>
+  <line x1="420" y1="94" x2="770" y2="94" stroke="#21262D"/>
+  <g clip-path="url(#code)" class="m">
+    <text x="440" y="122"><tspan fill="#D2A8FF">describe</tspan><tspan fill="#C9D1D9">(</tspan><tspan fill="#A5D6FF">'Login'</tspan><tspan fill="#C9D1D9">, () =&gt; {</tspan></text>
+    <text x="440" y="146"><tspan fill="#C9D1D9">  </tspan><tspan fill="#D2A8FF">it</tspan><tspan fill="#C9D1D9">(</tspan><tspan fill="#A5D6FF">'acessa com sucesso'</tspan><tspan fill="#C9D1D9">, () =&gt; {</tspan></text>
+    <text x="440" y="170"><tspan fill="#C9D1D9">    cy.</tspan><tspan fill="#79C0FF">visit</tspan><tspan fill="#C9D1D9">(</tspan><tspan fill="#A5D6FF">'/login'</tspan><tspan fill="#C9D1D9">)</tspan></text>
+    <text x="440" y="194"><tspan fill="#C9D1D9">    cy.</tspan><tspan fill="#79C0FF">get</tspan><tspan fill="#C9D1D9">(</tspan><tspan fill="#A5D6FF">'#email'</tspan><tspan fill="#C9D1D9">)</tspan></text>
+    <text x="440" y="218"><tspan fill="#C9D1D9">      .</tspan><tspan fill="#79C0FF">type</tspan><tspan fill="#C9D1D9">(</tspan><tspan fill="#A5D6FF">'qa@exemplo.com'</tspan><tspan fill="#C9D1D9">)</tspan></text>
+    <text x="440" y="242"><tspan fill="#C9D1D9">    cy.</tspan><tspan fill="#79C0FF">get</tspan><tspan fill="#C9D1D9">(</tspan><tspan fill="#A5D6FF">'#senha'</tspan><tspan fill="#C9D1D9">).</tspan><tspan fill="#79C0FF">type</tspan><tspan fill="#C9D1D9">(senha)</tspan></text>
+    <text x="440" y="266"><tspan fill="#C9D1D9">    cy.</tspan><tspan fill="#79C0FF">contains</tspan><tspan fill="#C9D1D9">(</tspan><tspan fill="#A5D6FF">'Acessar'</tspan><tspan fill="#C9D1D9">).</tspan><tspan fill="#79C0FF">click</tspan><tspan fill="#C9D1D9">()</tspan></text>
+    <text x="440" y="290"><tspan fill="#C9D1D9">    cy.</tspan><tspan fill="#79C0FF">url</tspan><tspan fill="#C9D1D9">().</tspan><tspan fill="#79C0FF">should</tspan><tspan fill="#C9D1D9">(</tspan><tspan fill="#A5D6FF">'include'</tspan><tspan fill="#C9D1D9">, </tspan><tspan fill="#A5D6FF">'/home'</tspan><tspan fill="#C9D1D9">)</tspan></text>
+    <text x="440" y="314"><tspan fill="#C9D1D9">  })</tspan></text>
+    <text x="440" y="338"><tspan fill="#C9D1D9">})</tspan></text>
+    <text x="440" y="372"><tspan fill="#3FB950">✓ 1 teste gerado</tspan><tspan fill="#8B949E">  ·  custo US$ 0,002</tspan></text>
+  </g>
+</svg>

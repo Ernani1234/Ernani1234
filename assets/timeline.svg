@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" role="img" aria-label="Linha do tempo: 2024 Analista de QA na Inovvati; 2025 Engenharia da Computação na UCDB; 2025 até hoje Desenvolvedor de Sistemas com IA na Inovvati">
+  <title>Linha do tempo profissional</title>
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7EE787"/>
+      <stop offset=".5" stop-color="#00D9FF"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <style>
+    .t { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+    .m { font-family: 'Cascadia Code', 'Fira Code', Consolas, monospace; }
+    .draw { stroke-dasharray: 820; stroke-dashoffset: 820; animation: draw 2.4s ease-out .2s forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0 } }
+    .pop { opacity: 0; transform-box: fill-box; transform-origin: center; animation: pop .5s cubic-bezier(.2,1.6,.4,1) forwards; }
+    @keyframes pop { from { opacity: 0; transform: scale(.2) } to { opacity: 1; transform: scale(1) } }
+    .card { opacity: 0; animation: rise .7s ease-out forwards; }
+    @keyframes rise { from { opacity: 0; transform: translateY(14px) } to { opacity: 1; transform: none } }
+    .ring { transform-box: fill-box; transform-origin: center; animation: ring 2s ease-out 3s infinite; }
+    @keyframes ring { from { opacity: .8; transform: scale(1) } to { opacity: 0; transform: scale(2.6) } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important } .draw { stroke-dashoffset: 0 } .pop, .card { opacity: 1 } }
+  </style>
+
+  <rect x="1" y="1" width="998" height="248" rx="14" fill="#0D1117" stroke="#30363D"/>
+
+  <line x1="90" y1="70" x2="910" y2="70" stroke="#21262D" stroke-width="4" stroke-linecap="round"/>
+  <line class="draw" x1="90" y1="70" x2="910" y2="70" stroke="url(#line)" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- 2024 QA -->
+  <circle class="pop" style="animation-delay:.3s" cx="170" cy="70" r="10" fill="#0D1117" stroke="#7EE787" stroke-width="4"/>
+  <g class="card t" style="animation-delay:.5s">
+    <text x="170" y="42" text-anchor="middle" class="m" font-size="14" fill="#7EE787">2024 – 2025</text>
+    <rect x="40" y="100" width="260" height="124" rx="12" fill="#161B22" stroke="#30363D"/>
+    <rect x="40" y="100" width="4" height="124" rx="2" fill="#7EE787"/>
+    <text x="62" y="130" font-size="17" font-weight="700" fill="#E6EDF3">Analista de QA</text>
+    <text x="62" y="152" font-size="13" fill="#8B949E">Estágio · Inovvati Tecnologia</text>
+    <text x="62" y="180" font-size="13" fill="#C9D1D9">Testes E2E com Cypress,</text>
+    <text x="62" y="200" font-size="13" fill="#C9D1D9">planos de regressão e carga</text>
+  </g>
+
+  <!-- 2025 graduation -->
+  <circle class="pop" style="animation-delay:1.1s" cx="500" cy="70" r="10" fill="#0D1117" stroke="#00D9FF" stroke-width="4"/>
+  <g class="card t" style="animation-delay:1.3s">
+    <text x="500" y="42" text-anchor="middle" class="m" font-size="14" fill="#00D9FF">2025</text>
+    <rect x="370" y="100" width="260" height="124" rx="12" fill="#161B22" stroke="#30363D"/>
+    <rect x="370" y="100" width="4" height="124" rx="2" fill="#00D9FF"/>
+    <text x="392" y="130" font-size="17" font-weight="700" fill="#E6EDF3">Engenharia da Computação</text>
+    <text x="392" y="152" font-size="13" fill="#8B949E">Bacharelado · UCDB</text>
+    <text x="392" y="180" font-size="13" fill="#C9D1D9">Compiladores, autômatos,</text>
+    <text x="392" y="200" font-size="13" fill="#C9D1D9">filtros de partículas, eletrônica</text>
+  </g>
+
+  <!-- 2025 - now AI dev -->
+  <circle class="ring" cx="830" cy="70" r="10" fill="none" stroke="#8B5CF6" stroke-width="3"/>
+  <circle class="pop" style="animation-delay:1.9s" cx="830" cy="70" r="10" fill="#8B5CF6" stroke="#C4B5FD" stroke-width="3" filter="url(#glow)"/>
+  <g class="card t" style="animation-delay:2.1s">
+    <text x="830" y="42" text-anchor="middle" class="m" font-size="14" fill="#A78BFA">2025 – atual</text>
+    <rect x="700" y="100" width="260" height="124" rx="12" fill="#161B22" stroke="#8B5CF6" stroke-opacity=".6"/>
+    <rect x="700" y="100" width="4" height="124" rx="2" fill="#8B5CF6"/>
+    <text x="722" y="130" font-size="17" font-weight="700" fill="#E6EDF3">Dev. de Sistemas com IA</text>
+    <text x="722" y="152" font-size="13" fill="#8B949E">Trainee · Inovvati Tecnologia</text>
+    <text x="722" y="180" font-size="13" fill="#C9D1D9">LLMs, arquitetura com 13+</text>
+    <text x="722" y="200" font-size="13" fill="#C9D1D9">serviços integrados</text>
+  </g>
+</svg>

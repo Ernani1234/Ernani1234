@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="860" height="416" viewBox="0 0 860 416" role="img" aria-label="Terminal: whoami — Ernani, Desenvolvedor de Sistemas com IA na Inovvati Tecnologia">
+  <title>whoami</title>
+  <defs>
+    <linearGradient id="win" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0F1624"/>
+      <stop offset="1" stop-color="#0A0F1A"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00D9FF" stop-opacity=".6"/>
+      <stop offset=".5" stop-color="#30363D"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity=".6"/>
+    </linearGradient>
+    <!-- one clip per typed line; width animates to "type" the text -->
+    <clipPath id="c1"><rect x="30" y="62" height="26" width="0"><animate attributeName="width" from="0" to="160" begin="0.3s" dur="0.6s" fill="freeze" calcMode="discrete" values="0;20;40;60;80;100;120;140;160" keyTimes="0;.12;.25;.37;.5;.62;.75;.87;1"/></rect></clipPath>
+    <clipPath id="c3"><rect x="30" y="126" height="26" width="0"><animate attributeName="width" begin="1.9s" dur="0.7s" fill="freeze" calcMode="discrete" values="0;30;60;90;120;150;180;210" keyTimes="0;.14;.28;.42;.57;.71;.85;1"/></rect></clipPath>
+    <clipPath id="c5"><rect x="30" y="190" height="26" width="0"><animate attributeName="width" begin="3.5s" dur="0.8s" fill="freeze" calcMode="discrete" values="0;30;60;90;120;150;180;210;240" keyTimes="0;.12;.25;.37;.5;.62;.75;.87;1"/></rect></clipPath>
+    <clipPath id="c7"><rect x="30" y="302" height="26" width="0"><animate attributeName="width" begin="5.4s" dur="0.6s" fill="freeze" calcMode="discrete" values="0;30;60;90;120;150;180" keyTimes="0;.16;.33;.5;.66;.83;1"/></rect></clipPath>
+  </defs>
+  <style>
+    .m { font-family: 'Cascadia Code', 'Fira Code', 'JetBrains Mono', Consolas, 'Courier New', monospace; font-size: 15px; }
+    .p { fill: #3FB950 } .c { fill: #E6EDF3 } .o { fill: #8B949E } .k { fill: #00D9FF } .s { fill: #A5D6FF } .v { fill: #D2A8FF } .y { fill: #FFD866 } .g { fill: #7EE787 }
+    .out { opacity: 0; animation: show .35s ease-out forwards; }
+    @keyframes show { from { opacity: 0; transform: translateX(-6px) } to { opacity: 1; transform: none } }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0 } }
+    @media (prefers-reduced-motion: reduce) { .out { animation: none; opacity: 1 } }
+  </style>
+
+  <rect x="1" y="1" width="858" height="414" rx="14" fill="url(#win)" stroke="url(#edge)" stroke-width="1.5"/>
+  <path d="M1 15a14 14 0 0 1 14-14h830a14 14 0 0 1 14 14v25H1z" fill="#161B22"/>
+  <line x1="1" y1="40" x2="859" y2="40" stroke="#21262D"/>
+  <circle cx="24" cy="21" r="6" fill="#FF5F57"/><circle cx="44" cy="21" r="6" fill="#FEBC2E"/><circle cx="64" cy="21" r="6" fill="#28C840"/>
+  <text x="430" y="26" text-anchor="middle" class="m o" font-size="13">ernani@inovvati: ~</text>
+
+  <g class="m">
+    <!-- 1 -->
+    <g clip-path="url(#c1)"><text x="30" y="80"><tspan class="p">❯ </tspan><tspan class="c">whoami</tspan></text></g>
+    <text x="30" y="108" class="out" style="animation-delay:1s"><tspan class="k">Ernani Mendes da Fonseca Neto</tspan><tspan class="o">  —  Engenheiro da Computação (UCDB, 2025)</tspan></text>
+
+    <!-- 2 -->
+    <g clip-path="url(#c3)"><text x="30" y="144"><tspan class="p">❯ </tspan><tspan class="c">cat cargo.txt</tspan></text></g>
+    <text x="30" y="172" class="out" style="animation-delay:2.7s"><tspan class="c">Desenvolvedor de Sistemas com IA</tspan><tspan class="o"> @ </tspan><tspan class="y">Inovvati Tecnologia</tspan><tspan class="o">  (2025 – atual)</tspan></text>
+
+    <!-- 3 -->
+    <g clip-path="url(#c5)"><text x="30" y="208"><tspan class="p">❯ </tspan><tspan class="c">cat stack.json</tspan></text></g>
+    <g class="out" style="animation-delay:4.4s">
+      <text x="30" y="236"><tspan class="o">{ </tspan><tspan class="v">"ia"</tspan><tspan class="o">: [</tspan><tspan class="s">"OpenAI"</tspan><tspan class="o">, </tspan><tspan class="s">"LLMs"</tspan><tspan class="o">, </tspan><tspan class="s">"ElevenLabs"</tspan><tspan class="o">, </tspan><tspan class="s">"prompt engineering"</tspan><tspan class="o">],</tspan></text>
+      <text x="30" y="260"><tspan class="o">  </tspan><tspan class="v">"código"</tspan><tspan class="o">: [</tspan><tspan class="s">"Python"</tspan><tspan class="o">, </tspan><tspan class="s">"TypeScript"</tspan><tspan class="o">, </tspan><tspan class="s">"Rust"</tspan><tspan class="o">, </tspan><tspan class="s">"SQL"</tspan><tspan class="o">],</tspan></text>
+      <text x="30" y="284"><tspan class="o">  </tspan><tspan class="v">"qa"</tspan><tspan class="o">: [</tspan><tspan class="s">"Cypress"</tspan><tspan class="o">, </tspan><tspan class="s">"Selenium"</tspan><tspan class="o">, </tspan><tspan class="s">"Robot Framework"</tspan><tspan class="o">, </tspan><tspan class="s">"Jest"</tspan><tspan class="o">] }</tspan></text>
+    </g>
+
+    <!-- 4 -->
+    <g clip-path="url(#c7)"><text x="30" y="320"><tspan class="p">❯ </tspan><tspan class="c">ls ./foco</tspan></text></g>
+    <text x="30" y="348" class="out" style="animation-delay:6.2s"><tspan class="g">integracao-llm/</tspan><tspan class="o">   </tspan><tspan class="g">arquitetura-de-servicos/</tspan><tspan class="o">   </tspan><tspan class="g">privacy-first/</tspan><tspan class="o">   </tspan><tspan class="g">testes/</tspan></text>
+
+    <!-- prompt + cursor -->
+    <g class="out" style="animation-delay:6.8s">
+      <text x="30" y="384"><tspan class="p">❯ </tspan></text>
+      <rect class="cursor" x="48" y="371" width="9" height="17" fill="#00D9FF"/>
+    </g>
+  </g>
+</svg>
