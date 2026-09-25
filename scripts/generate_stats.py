@@ -202,9 +202,9 @@ def stats_card(user: dict) -> str:
       stroke-dasharray="{circ:.1f}" stroke-dashoffset="{circ:.1f}" style="--to:{offset:.1f}" transform="rotate(-90)"/>
     <path class="flame" d="M0 -30c6 7 9 12 9 17a9 9 0 0 1-18 0c0-4 2-7 4-9c0 4 2 6 4 6c0-5-1-9 1-14z" fill="#F5A97F"/>
     <text y="16" text-anchor="middle" class="t" font-size="26" font-weight="800" fill="{TEXT}">{current}</text>
-    <text y="32" text-anchor="middle" class="t" font-size="10" fill="{MUTED}">dias seguidos</text>
+    <text y="32" text-anchor="middle" class="t" font-size="10" fill="{MUTED}">{"dia seguido" if current == 1 else "dias seguidos"}</text>
   </g>
-  <text x="400" y="190" text-anchor="middle" class="t in" style="animation-delay:.9s" font-size="12" fill="{MUTED}">recorde: <tspan class="m" fill="{TEXT}" font-weight="700">{longest}</tspan> dias</text>"""
+  <text x="400" y="190" text-anchor="middle" class="t in" style="animation-delay:.9s" font-size="12" fill="{MUTED}">recorde: <tspan class="m" fill="{TEXT}" font-weight="700">{longest}</tspan> {"dia" if longest == 1 else "dias"}</text>"""
 
     # Weekly activity bars for the last 52 weeks.
     weekly = [sum(d["contributionCount"] for d in w["contributionDays"]) for w in cal["weeks"]][-52:]
@@ -223,7 +223,7 @@ def stats_card(user: dict) -> str:
     )
     body = "\n".join(rows) + "\n" + ring + "\n" + chart
     label = (f"Estatísticas do GitHub: {cal['totalContributions']} contribuições no último ano, "
-             f"sequência atual de {current} dias, recorde de {longest} dias")
+             f"sequência atual de {current}, recorde de {longest} (dias)")
     return card(495, 280, "Atividade no GitHub", body, label)
 
 
