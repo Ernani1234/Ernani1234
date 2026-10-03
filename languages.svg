@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="280" viewBox="0 0 495 280" role="img" aria-label="Linguagens mais usadas: Python 35%, TypeScript 28%, JavaScript 21%, Rust 15%">
+  <title>Linguagens mais usadas: Python 35%, TypeScript 28%, JavaScript 21%, Rust 15%</title>
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00D9FF" stop-opacity=".55"/>
+      <stop offset=".5" stop-color="#30363D"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity=".55"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#00D9FF"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .t { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+    .m { font-family: 'Cascadia Code', 'Fira Code', Consolas, monospace; }
+    .in { opacity: 0; animation: in .6s ease-out forwards; }
+    @keyframes in { from { opacity: 0; transform: translateX(-8px) } to { opacity: 1; transform: none } }
+    .grow { transform-box: fill-box; transform-origin: bottom; transform: scaleY(0); animation: gy .6s cubic-bezier(.2,.8,.2,1) forwards; }
+    @keyframes gy { to { transform: scaleY(1) } }
+    .growx { transform-box: fill-box; transform-origin: left; transform: scaleX(0); animation: gx 1s cubic-bezier(.2,.8,.2,1) forwards; }
+    @keyframes gx { to { transform: scaleX(1) } }
+    .ring { animation: ring 1.6s ease-out .3s forwards; }
+    @keyframes ring { to { stroke-dashoffset: var(--to) } }
+    .flame { transform-box: fill-box; transform-origin: bottom; animation: flame 1.4s ease-in-out infinite; }
+    @keyframes flame { 0%,100% { transform: scale(1) } 50% { transform: scale(1.12, .92) } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important } .in { opacity: 1 } .grow, .growx { transform: none } .ring { stroke-dashoffset: var(--to) } }
+  </style>
+  <rect x="1" y="1" width="493" height="278" rx="14" fill="#0D1117" stroke="url(#edge)" stroke-width="1.5"/>
+  <text x="26" y="40" class="t" font-size="17" font-weight="700" fill="#E6EDF3">Linguagens mais usadas</text>
+  <clipPath id="bar"><rect x="26" y="60" width="443.0" height="10" rx="5"/></clipPath>
+  <rect x="26" y="60" width="443.0" height="10" rx="5" fill="#21262D"/>
+  <g clip-path="url(#bar)"><rect class="growx" style="animation-delay:0.10s" x="26.0" y="60" width="156.3" height="10" fill="#3572A5"/><rect class="growx" style="animation-delay:0.22s" x="182.3" y="60" width="125.2" height="10" fill="#3178c6"/><rect class="growx" style="animation-delay:0.34s" x="307.5" y="60" width="94.0" height="10" fill="#f1e05a"/><rect class="growx" style="animation-delay:0.46s" x="401.5" y="60" width="67.5" height="10" fill="#dea584"/></g>
+  <g class="in t" style="animation-delay:0.30s"><circle cx="32" cy="99" r="5" fill="#3572A5"/><text x="46" y="104" font-size="14" fill="#E6EDF3">Python</text><rect x="190" y="94" width="210" height="6" rx="3" fill="#21262D"/><rect class="growx" style="animation-delay:0.50s" x="190" y="94" width="74.1" height="6" rx="3" fill="#3572A5"/><text x="469" y="104" text-anchor="end" class="m" font-size="13" fill="#8B949E">35.3%</text></g>
+  <g class="in t" style="animation-delay:0.40s"><circle cx="32" cy="124" r="5" fill="#3178c6"/><text x="46" y="129" font-size="14" fill="#E6EDF3">TypeScript</text><rect x="190" y="119" width="210" height="6" rx="3" fill="#21262D"/><rect class="growx" style="animation-delay:0.60s" x="190" y="119" width="59.4" height="6" rx="3" fill="#3178c6"/><text x="469" y="129" text-anchor="end" class="m" font-size="13" fill="#8B949E">28.3%</text></g>
+  <g class="in t" style="animation-delay:0.50s"><circle cx="32" cy="149" r="5" fill="#f1e05a"/><text x="46" y="154" font-size="14" fill="#E6EDF3">JavaScript</text><rect x="190" y="144" width="210" height="6" rx="3" fill="#21262D"/><rect class="growx" style="animation-delay:0.70s" x="190" y="144" width="44.6" height="6" rx="3" fill="#f1e05a"/><text x="469" y="154" text-anchor="end" class="m" font-size="13" fill="#8B949E">21.2%</text></g>
+  <g class="in t" style="animation-delay:0.60s"><circle cx="32" cy="174" r="5" fill="#dea584"/><text x="46" y="179" font-size="14" fill="#E6EDF3">Rust</text><rect x="190" y="169" width="210" height="6" rx="3" fill="#21262D"/><rect class="growx" style="animation-delay:0.80s" x="190" y="169" width="32.0" height="6" rx="3" fill="#dea584"/><text x="469" y="179" text-anchor="end" class="m" font-size="13" fill="#8B949E">15.2%</text></g>
+</svg>
